@@ -1,2 +1,5 @@
 # BBVA
-Creando ramas en Git
+Creando ramas en GIT
+
+Acercándonos al objetivo Houston
+Se antojan tacos!
